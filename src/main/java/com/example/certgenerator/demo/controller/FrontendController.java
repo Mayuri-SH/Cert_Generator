@@ -1,4 +1,3 @@
-// Corrected: FrontendController.java
 package com.example.certgenerator.demo.controller;
 
 import org.springframework.stereotype.Controller;
