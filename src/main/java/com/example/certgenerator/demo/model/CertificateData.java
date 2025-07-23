@@ -5,18 +5,15 @@ public class CertificateData {
     private String activity;
     private String date;
 
-    // ✅ No-argument constructor
     public CertificateData() {
     }
 
-    // All-argument constructor
     public CertificateData(String name, String activity, String date) {
         this.name = name;
         this.activity = activity;
         this.date = date;
     }
 
-    // Getters and setters
     public String getName() {
         return name;
     }
